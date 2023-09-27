@@ -4,5 +4,29 @@
   margin-left: 30%;
   align-items: center;
   text-align: center;
-  color: rgb(4, 163, 163);
+  background-color: black;
+  color:white
+}
+h1{
+  color: rgb(9, 158, 233);
+}
+h2{
+  color: rgb(177, 204, 245) ;
+}
+img{
+  width: 300px;
+  height: 300px;
+}
+.time{
+  display: flex;
+  justify-content: space-between;
+  
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.playButton{
+  background: none;
+  border: none;
+  justify-content: center;
+  align-items: center;
 }
